@@ -4,7 +4,7 @@ import { URL } from 'url';
 import path from 'path';
 
 const {
-  PAGE_URL = 'https://waiting-mandrill-bd7.notion.site/index-fdb2d10c5cb8403e8f4e0274f1d79c59?pvs=4',
+  PAGE_URL = 'https://waiting-mandrill-bd7.notion.site/b73f087a6c934729b1bd69141df477dc?v=8caabfbafeba4b15b5b8ccdfe9d46a74&pvs=4',
   GA_TRACKING_ID,
 } = process.env;
 
